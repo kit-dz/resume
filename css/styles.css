@@ -1,0 +1,41 @@
+body {
+  background-color: #e4f9f5;
+  color: #254b62;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #1d3e53;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #254b62;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-color: #1d3e53;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+
+a {
+  color: #1d3e53;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+a:hover {
+  color: #1cbbe3;
+}
+
+
+.hobbies {
+  margin-right: 10px;
+}
+
+.main {
+  margin-right: 10px;
+}
